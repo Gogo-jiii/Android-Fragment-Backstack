@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "Fragment Navigation"
+rootProject.name = "Fragment Backstack"
